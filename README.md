@@ -2,7 +2,7 @@
 
 This Application is developed to learn the online course in an interactive Way.
 
-View online : https://sector.soorinsec.ir
+View online : https://sector.soorinsec.ir - Temporary Unavailable
 
 Used Libs:
 <ul>
